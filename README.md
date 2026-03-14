@@ -1,5 +1,3 @@
-Here is your **same README with the extra parts removed**, keeping it clean and professional.
-
 ---
 
 # 💬 Realtime Chat App
