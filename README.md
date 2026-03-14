@@ -1,6 +1,6 @@
 ---
 
-# 💬 Realtime Chat App
+# 💬 Realtime Chat App - RazorChat
 
 A **Realtime Chat Application** built using **Socket.IO** for instant messaging and **Arcjet** for security and rate-limiting.
 The app supports **live messaging, typing indicators, and notification sounds**.
